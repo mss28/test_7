@@ -26,7 +26,7 @@
           "citypredict.whauwiller":"0.9.1",
           "yarn":"1.19.1",
           "quickserver":"0.8.1",
-          "nes":"6.4.0"
+          "nes":"10.0.2"
     },
      "bundledDependencies": {
         "nes": "6.4.0"
