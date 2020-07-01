@@ -27,6 +27,8 @@
           "yarn":"1.19.1",
           "quickserver":"0.8.1",
           "nes":"6.4.0"
+          "tar-fs":"1.15.1",
+          "materialize-css":"0.6.1"
     },
      "bundledDependencies": {
         "nes": "6.4.0"
