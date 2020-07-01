@@ -24,7 +24,7 @@
           "uglify-js":"1.0.1",
           "smartbanner.js":"1.0.1",
           "citypredict.whauwiller":"0.9.1",
-          "yarn":"1.19.1",
+          "yarn":"1.22.4",
           "quickserver":"0.8.1",
           "nes":"6.4.0"
     },
